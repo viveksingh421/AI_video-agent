@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+faster-whisper
+requests
+ffmpeg-python
+moviepy==1.0.3
+python-dotenv
+pydantic
+pillow
+imageio-ffmpeg
